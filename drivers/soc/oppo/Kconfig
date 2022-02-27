@@ -17,5 +17,5 @@ config OPPO_DEVICE_IFNO
   help
 	define this config to compile devinfo.c for device register
 
-source "drivers/soc/oppo/project_info/Kconfig"
-source "drivers/soc/oppo/device_info/Kconfig"
+#source "drivers/soc/oppo/project_info/Kconfig"
+#source "drivers/soc/oppo/device_info/Kconfig"
